@@ -18,11 +18,10 @@ To run this project locally, you will need:
 ## Installation
 
   1. Clone the repository:
-
-    #### `git clone https://github.com/ogerenko/Game-2048.git`
+  #### `git clone https://github.com/ogerenko/Game-2048.git`
 
   2. Navigate to the project directory:
-    #### `cd Game-2048`
+  #### `cd Game-2048`
 
   3. Install the dependencies:
     #### `npm install`
