@@ -24,10 +24,10 @@ To run this project locally, you will need:
   #### `cd Game-2048`
 
   3. Install the dependencies:
-    #### `npm install`
+  #### `npm install`
 
   4. Start the development server:
-    #### `npm start`
+  #### `npm start`
 
 ## Author
 
